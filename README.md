@@ -25,5 +25,5 @@ Esta é uma solução para o [desafio do componente de código QR Code no Fronte
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution Preview URL: [Add solution URL here](https://ogustavobarbosa.github.io/qrcode-componente-desafio/)
 - Live Site URL: [Add live site URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
